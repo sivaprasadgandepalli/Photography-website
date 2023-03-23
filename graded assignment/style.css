@@ -9,6 +9,13 @@ body{
 	width: 50px;
 	border-radius: 50%;
 }
+#header #log a{
+	margin:10px; 
+	font-size: 25px; 
+	font-family: monospace;
+	font-display: swap; 
+	text-decoration: none;
+}
 #gal .row .col-md-4 {
 	padding-bottom: 10px;
 }
